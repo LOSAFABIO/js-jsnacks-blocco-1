@@ -15,11 +15,11 @@ for( let i=0; i< N; i++){
     
     let nArr = [];
 
-    for( let cont = 0; cont<10; i++){
+    for( let cont = 0; cont<10; cont++){
 
-    nArr.push(Math.floor(Math.random()*100+1))
-    console.log(nArr);
+        nArr.push(Math.floor(Math.random()*100+1))
     }
+    console.log(nArr);
 }
 
 
