@@ -31,4 +31,5 @@ do{
 
     contatore++;
 
-} while (gruppoArr < 50);
+} while (somma < 50);
+    
